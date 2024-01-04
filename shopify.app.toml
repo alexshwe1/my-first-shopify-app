@@ -2,7 +2,7 @@
 
 name = "my-first-app"
 client_id = "adb202239180d733f4bfa2846cb3a76c"
-application_url = "https://vii-processing-naturally-darwin.trycloudflare.com"
+application_url = "https://med-exhibit-notice-biographies.trycloudflare.com"
 embedded = true
 
 [access_scopes]
@@ -11,9 +11,9 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://vii-processing-naturally-darwin.trycloudflare.com/auth/callback",
-  "https://vii-processing-naturally-darwin.trycloudflare.com/auth/shopify/callback",
-  "https://vii-processing-naturally-darwin.trycloudflare.com/api/auth/callback"
+  "https://med-exhibit-notice-biographies.trycloudflare.com/auth/callback",
+  "https://med-exhibit-notice-biographies.trycloudflare.com/auth/shopify/callback",
+  "https://med-exhibit-notice-biographies.trycloudflare.com/api/auth/callback"
 ]
 
 [webhooks]
